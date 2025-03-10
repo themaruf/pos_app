@@ -5,6 +5,13 @@ npm run dev or npm run build
 php artisan serve
 ```
 
+## Credentials
+
+```bash
+admin@mail.com
+123456
+```
+
 ## Fresh Installation:
 
 ```bash
