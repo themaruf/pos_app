@@ -1,6 +1,7 @@
 ## How to run:
 
 npm run dev or npm run build
+
 php artisan serve
 
 ## Fresh Installation:
