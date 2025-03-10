@@ -1,11 +1,11 @@
-How to run:
+## How to run:
 
 npm run dev or npm run build
 php artisan serve
 
-## Fresh Installation
+## Fresh Installation:
 
-git clone https://github.com/yourusername/pos_app.git
+git clone https://github.com/themaruf/pos_app.git
 
 cd pos_app
 composer install
