@@ -1,13 +1,14 @@
 ## How to run:
 
+```bash
 npm run dev or npm run build
-
 php artisan serve
+```
 
 ## Fresh Installation:
 
+```bash
 git clone https://github.com/themaruf/pos_app.git
-
 cd pos_app
 composer install
 npm install
@@ -21,3 +22,4 @@ php artisan migrate --seed
 
 npm run build
 php artisan serve
+```
